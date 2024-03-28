@@ -15,9 +15,6 @@
 | `Template 4 ` | `HTML - CSS` |https://javedg512.github.io/Template-4/ |
 | `Template 5 ` | `HTML ` |https://javedg512.github.io/404-Page/ |
 
-
-
-
 ## Multiple page templates 
 
 
