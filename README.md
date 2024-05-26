@@ -18,11 +18,7 @@
 ## Multiple page templates 
 
 
-
-
-
-
 | Template  Name  | Created with    | Link               |
 | :-------- | :------- | :------------------------- |
-| `Template 1 ` | `HTML - CSS` |https://javedg512.github.io/aesthetic--1/ |
+| `Template 1 ` | `HTML - CSS` |https://javed-gauri.github.io/Aesthetic/ |
 | `Template 2 ` | `HTML - CSS` |https://javedg512.github.io/Website-1/ |
